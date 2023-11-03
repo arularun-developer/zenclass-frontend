@@ -29,7 +29,6 @@ import Leave from './pages/Leave/Leave';
 import DataContext from './context/DataContext';
 import Profile from './components/profile/Profile';
 import { ToastContainer } from 'react-toastify';
-import 'react-toastify/dist/ReactToastify.css';
 
 
 
